@@ -1,0 +1,8 @@
+F:\KULIAH\S1 TRANSFER\SEMESTER 2\PEMROGRAMAN\ResponsiPemrograman1531\ResponsiPemrograman1531\ResponsiPemrograman1531\bin\Debug\ResponsiPemrograman1531.exe.config
+F:\KULIAH\S1 TRANSFER\SEMESTER 2\PEMROGRAMAN\ResponsiPemrograman1531\ResponsiPemrograman1531\ResponsiPemrograman1531\bin\Debug\ResponsiPemrograman1531.exe
+F:\KULIAH\S1 TRANSFER\SEMESTER 2\PEMROGRAMAN\ResponsiPemrograman1531\ResponsiPemrograman1531\ResponsiPemrograman1531\bin\Debug\ResponsiPemrograman1531.pdb
+F:\KULIAH\S1 TRANSFER\SEMESTER 2\PEMROGRAMAN\ResponsiPemrograman1531\ResponsiPemrograman1531\ResponsiPemrograman1531\obj\Debug\ResponsiPemrograman1531.csproj.AssemblyReference.cache
+F:\KULIAH\S1 TRANSFER\SEMESTER 2\PEMROGRAMAN\ResponsiPemrograman1531\ResponsiPemrograman1531\ResponsiPemrograman1531\obj\Debug\ResponsiPemrograman1531.csproj.SuggestedBindingRedirects.cache
+F:\KULIAH\S1 TRANSFER\SEMESTER 2\PEMROGRAMAN\ResponsiPemrograman1531\ResponsiPemrograman1531\ResponsiPemrograman1531\obj\Debug\ResponsiPemrograman1531.csproj.CoreCompileInputs.cache
+F:\KULIAH\S1 TRANSFER\SEMESTER 2\PEMROGRAMAN\ResponsiPemrograman1531\ResponsiPemrograman1531\ResponsiPemrograman1531\obj\Debug\ResponsiPemrograman1531.exe
+F:\KULIAH\S1 TRANSFER\SEMESTER 2\PEMROGRAMAN\ResponsiPemrograman1531\ResponsiPemrograman1531\ResponsiPemrograman1531\obj\Debug\ResponsiPemrograman1531.pdb
